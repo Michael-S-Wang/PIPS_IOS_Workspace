@@ -1,0 +1,3 @@
+[submodule "PIPS_IOS"]
+	path = PIPS_IOS
+	url = git@github.com:Michael-S-Wang/PIPS_IOS.git
