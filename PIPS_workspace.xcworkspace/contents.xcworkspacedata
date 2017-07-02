@@ -2,9 +2,9 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "container:PIPS_IOS/../PIPS_static_lib/PIPS_static_lib.xcodeproj">
+      location = "container:PIPS_static_lib/PIPS_static_lib.xcodeproj">
    </FileRef>
    <FileRef
-      location = "container:/Users/bshappee/code/PIPS/PIPS_IOS/PIP_IOS.xcodeproj">
+      location = "container:PIPS_IOS/PIP_IOS.xcodeproj">
    </FileRef>
 </Workspace>
